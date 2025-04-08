@@ -182,7 +182,7 @@ Barbers spend time managing calls and reschedules during cuts. This app:
 
 
 # Idea Number 3
-# SmartReceipt 📸💻  
+# SmartReceipt   
 **A Receipt Management System for Expense Tracking**
 
 SmartReceipt is a digital platform built for individuals, managers, and business owners who want to streamline monthly expense tracking. It allows users to **scan physical receipts** and also **automatically import online purchase receipts**, organizing them in a centralized, searchable dashboard. Users will be able to **distinguish between physical and online receipts** for clarity during audits and exporting.
