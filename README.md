@@ -1,4 +1,4 @@
-# Fitness-Tracking-Coaching-Capstone
+# 3 Capstone Ideas for Final Project
 A comprehensive web application for fitness tracking, coaching, and community engagement.
 # Fitness Tracking and Coaching Platform
 
